@@ -1,4 +1,4 @@
-# How to do Learn Labs on Your Computer (and not the Learn IDE)
+# How to do Learn Labs on Your Computer (and not the Learn IDE) 
 
 From now on, you'll be executing code on you own computer instead of relying on the Learn IDE during your PREWORK. For each and every lab, you'll be copying the code to your computer using [Git](https://git-scm.com).  You will then be able to run and test your code in your terminal, and submit your work using the learn-co gem.  
 
